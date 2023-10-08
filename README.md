@@ -1,1 +1,1 @@
-# Model Neurons
+# Neuron Models
